@@ -1,6 +1,6 @@
 
 
-from hf import generate_response
+from groq1 import generate_response
 
 
 import io, streamlit as st
